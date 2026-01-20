@@ -7,7 +7,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 <p align="center">
   <em>
@@ -91,5 +90,5 @@ Follow these steps to run the project locally.
 
 **Step 1: Clone the Repository**
 ```bash
-git clone [https://github.com/ArnabKrJana/RNN-Language-Identification.git](https://github.com/ArnabKrJana/RNN-Language-Identification.git)
+git clone https://github.com/ArnabKrJana/RNN-Language-Identification.git
 cd language-detection-rnn
